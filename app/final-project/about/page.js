@@ -25,7 +25,7 @@ export default function Page() {
       <About />
 
       <div>
-        <div className="flex justify-center gap-10 text-3xl">
+        <div className="flex justify-center gap-10 text-3xl mt-10">
           <p className="hover:text-gray-500 hover:underline"><Link href=".\about">About</Link></p>
           <p className="hover:text-gray-500 hover:underline"><Link href=".\skills">Skills</Link></p>
           <p className="hover:text-gray-500 hover:underline"><Link href=".\projects">Projects</Link></p>
