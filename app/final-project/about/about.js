@@ -23,11 +23,17 @@ export default function About() {
             </p>
           </div>
           <div className="m-10 text-xl">
-            <p>Innovative software developer at SAIT College with a demonstrated record of creating complete
-              flowcharts, layouts, and documentation to successfully detect problems and find resolutions
-              easily. Outstanding in Python, C#,Java, HTML, CSS, and JavaScript programming, getting
-              extraordinary programming achievements. I’m eager to learn from others and willing to share my
-              experiences. </p>
+            <p>As an innovative software developer at SAIT College, 
+              I have a proven track record of designing and implementing comprehensive flowcharts, layouts, and documentation, 
+              which facilitate the efficient identification and resolution of technical issues. 
+              My proficiency spans multiple programming languages, including Python, C#, Java, HTML, CSS, and JavaScript, 
+              allowing me to achieve exceptional results across various projects.
+              I excel in creating robust and scalable solutions that meet user needs and business goals. 
+              My dedication to continuous learning drives me to stay updated with the latest industry trends and technologies.
+               I thrive in collaborative environments, where I can both learn from my peers 
+               and contribute my knowledge and experiences to the team.
+                My passion for coding and problem-solving is reflected in my ability to deliver high-quality software solutions
+                 that exceed expectations. </p>
           </div>
         </div>
       </div>
