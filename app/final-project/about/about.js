@@ -25,7 +25,7 @@ export default function About() {
           <div className="m-10 text-xl">
             <p>Innovative software developer at SAIT College with a demonstrated record of creating complete
               flowcharts, layouts, and documentation to successfully detect problems and find resolutions
-              easily. Outstanding in Python, C#, HTML, CSS, and JavaScript programming, getting
+              easily. Outstanding in Python, C#,Java, HTML, CSS, and JavaScript programming, getting
               extraordinary programming achievements. I’m eager to learn from others and willing to share my
               experiences. </p>
           </div>
